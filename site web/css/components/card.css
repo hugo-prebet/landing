@@ -1,0 +1,25 @@
+
+.cards {
+	display:flex;
+	flex-wrap: wrap;
+}
+
+
+
+
+.card img{
+	-moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    padding: 7px; 
+    width: 150px;
+	height: 181px;
+	border-radius: 10px; 
+}
+
+.card img {
+	border-radius: 10px; 
+}
+
+.card h3 {
+ 	border-radius: 10px; 
+}

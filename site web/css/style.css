@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css?family=Righteous|Source");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+body {
+	font-family: 'Righteous', serif;
+	font-size: 15px;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: 'Righteous', sans-serif;
+	font-weight: bold;
+	width: 12px;
+	font-size: 29px;
+}
+
+
+a {
+	text-decoration: none;
+	color: black;
+	font-weight:500;
+	font-size:21px;
+	transition: color 0,25s ease;
+	font-size: 18px;
+}
+
+
+a:hover {
+	color: rgb(234,145,25);
+}
+
+p {
+	margin:1px ;
+	font-size: 19px;
+}
